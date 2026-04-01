@@ -8,7 +8,7 @@ const Banner = () => {
     return (
         <div className="hero min-h-screen lg:w-10/12 md:w-10/12 mx-auto">
             <div className="hero-content flex-col lg:flex-row-reverse">
-                <img src={banner} alt="Banner" className="max-w-sm rounded-lg shadow-2xl" /> 
+                <img src={banner} alt="Banner" className="max-w-sm rounded-lg shadow-2xl" />
                 <div className='w-full mx-auto lg:w-1/2 md:w-1/2'>
                     <h1 className='flex items-center gap-2 w-85 text-blue-600 bg-[#E1E7FF] p-2 rounded-full text-lg font-bold'><span className="flex items-center justify-center w-6 h-6 bg-purple-200 rounded-full ">
                         <BiDisc className="text-blue-400 w-4 h-4 text-2xl" />

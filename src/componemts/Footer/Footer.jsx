@@ -1,11 +1,13 @@
+import React from 'react';
 import { FaXTwitter } from 'react-icons/fa6';
 import { GrInstagram } from 'react-icons/gr';
+import { TiSocialFacebookCircular } from 'react-icons/ti';
 import { RiFacebookCircleLine } from 'react-icons/ri';
 
 const Footer = () => {
     return (
         <div className='bg-[#101727] text-white pt-10'>
-            <div className="grid lg:grid-cols-5 sm:grid-cols-2 md:grid-cols-3 gap-10 w-11/12 mx-auto px-5 lg:px-10">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-10 w-11/12 mx-auto px-5 lg:px-10">
 
                 <div className="lg:pr-10 text-center sm:text-left">
                     <h2 className='text-2xl font-bold mb-3'>DigiTools</h2>

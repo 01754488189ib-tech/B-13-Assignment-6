@@ -29,9 +29,9 @@ const Card = ({ cardPromise, selectedCard, setSelectedCard }) => {
                 </div>
             </div>
 
-            {selectedTab === 'products' ? 
-            <AllCard CardData={CardData} selectedCard={selectedCard} setSelectedCard={setSelectedCard} /> :
-            <SelectedCard selectedCard={selectedCard} setSelectedCard={setSelectedCard}></SelectedCard>}
+            {selectedTab === 'products' ?
+                <AllCard CardData={CardData} selectedCard={selectedCard} setSelectedCard={setSelectedCard} /> :
+                <SelectedCard selectedCard={selectedCard} setSelectedCard={setSelectedCard}></SelectedCard>}
         </div>
     );
 };

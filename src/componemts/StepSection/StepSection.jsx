@@ -1,3 +1,4 @@
+import React from 'react';
 import packageIcon from '../../assets/package.png';
 import rocketIcon from '../../assets/rocket.png';
 import userIcon from '../../assets/user.png';
@@ -12,7 +13,7 @@ const StepSection = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-6 md:p-10 max-w-7xl mx-auto">
 
-                <div className="card hover:scale-105 transition-transform bg-base-100 w-full max-w-sm mx-auto shadow-sm">
+                <div className="card bg-base-100 w-full max-w-sm mx-auto shadow-sm">
                     <h2 className="card-title flex items-end justify-end mt-8 mr-8">
                         <span className='bg-gradient-to-r from-[#4F39F6] to-[#9514FA] p-2 rounded-full size-10 flex items-center justify-center font-bold text-white'>01</span>
                     </h2>
@@ -30,7 +31,7 @@ const StepSection = () => {
                     </div>
                 </div>
 
-                <div className="card hover:scale-105 transition-transform bg-base-100 w-full max-w-sm mx-auto shadow-sm">
+                <div className="card bg-base-100 w-full max-w-sm mx-auto shadow-sm">
                     <h2 className="card-title flex items-end justify-end mt-8 mr-8">
                         <span className='bg-gradient-to-r from-[#4F39F6] to-[#9514FA] p-2 rounded-full size-10 flex items-center justify-center font-bold text-white'>02</span>
                     </h2>
@@ -48,7 +49,7 @@ const StepSection = () => {
                     </div>
                 </div>
 
-                <div className="card hover:scale-105 transition-transform bg-base-100 w-full max-w-sm mx-auto shadow-sm">
+                <div className="card bg-base-100 w-full max-w-sm mx-auto shadow-sm">
                     <h2 className="card-title flex items-end justify-end mt-8 mr-8">
                         <span className='bg-gradient-to-r from-[#4F39F6] to-[#9514FA] p-2 rounded-full size-10 flex items-center justify-center font-bold text-white'>03</span>
                     </h2>
