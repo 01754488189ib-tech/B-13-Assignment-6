@@ -17,3 +17,6 @@
     Product Cart: Easy item selection and adding to cart.
     Live Counter: Real-time item count updates on the cart icon.
     Toast Alerts: Interactive notifications for every user action.
+
+
+    

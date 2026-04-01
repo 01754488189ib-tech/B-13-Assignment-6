@@ -35,7 +35,7 @@ const SelectedCard = ({ selectedCard, setSelectedCard }) => {
             {
                 selectedCard.length === 0 ?
                     <div className='text-center my-20 pb-10'>
-                        <GiShoppingCart className='text-9xl opacity-40 mx-auto' />
+                        <GiShoppingCart className='text-9xl hover:scale-105 transition-transform opacity-40 mx-auto' />
 
                         <h1 className=' text-3xl opacity-40 font-bold'>Your cart is empty</h1>
                         <p className=' opacity-40'>Please add some products</p>
