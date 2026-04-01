@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Keychron Q1 Pro Mechanical Keyboard",
+    "description": "Premium aluminum keyboard with smooth tactile typing experience.",
+    "price": 189,
+    "period": "One-Time",
+    "tagType": "Best Seller",
+    "features": [
+      "Hot-swappable switches",
+      "RGB backlighting",
+      "Wireless & wired connectivity"
+    ],
+    "icon": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "description": "Industry-leading noise cancellation with immersive sound.",
+    "price": 399,
+    "period": "Monthly",
+    "tagType": "Popular",
+    "features": [
+      "Active noise cancellation",
+      "30-hour battery life",
+      "Touch controls"
+    ],
+    "icon": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Canon EOS R6 DSLR Camera",
+    "description": "Capture stunning photos with professional-grade clarity.",
+    "price": 2499,
+    "period": "One-Time",
+    "tagType": "Best Seller",
+    "features": [
+      "20MP full-frame sensor",
+      "4K video recording",
+      "In-body image stabilization"
+    ],
+    "icon": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Logitech G Pro X Superlight Gaming Mouse",
+    "description": "Ultra-lightweight esports mouse built for precision and speed.",
+    "price": 159,
+    "period": "One-Time",
+    "tagType": "Best Seller",
+    "features": [
+      "25K HERO sensor",
+      "Sub-63g ultra-lightweight design",
+      "Lightspeed wireless technology"
+    ],
+    "icon": "https://images.unsplash.com/photo-1605773527852-c546a8584ea3?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Apple MacBook Air M2 Laptop",
+    "description": "Ultra-thin laptop with powerful performance and all-day battery.",
+    "price": 1199,
+    "period": "Monthly",
+    "tagType": "Popular",
+    "features": [
+      "M2 chip performance",
+      "13.6-inch Retina display",
+      "18-hour battery life"
+    ],
+    "icon": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 6,
+    "name": "JBL Flip 6 Bluetooth Speaker",
+    "description": "Portable speaker delivering powerful sound anywhere.",
+    "price": 149,
+    "period": "One-Time",
+    "tagType": "Best Seller",
+    "features": [
+      "Waterproof design",
+      "12-hour playtime",
+      "Bluetooth 5.1"
+    ],
+    "icon": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Philips Hue Modern Desk Lamp",
+    "description": "Smart lighting with customizable colors and ambiance.",
+    "price": 179,
+    "period": "Monthly",
+    "tagType": "New",
+    "features": [
+      "App-controlled lighting",
+      "16 million colors",
+      "Voice assistant support"
+    ],
+    "icon": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Harber London Leather Backpack",
+    "description": "Elegant handcrafted leather backpack for modern professionals.",
+    "price": 299,
+    "period": "One-Time",
+    "tagType": "Popular",
+    "features": [
+      "Full-grain leather",
+      "Laptop compartment",
+      "Minimalist design"
+    ],
+    "icon": "https://images.unsplash.com/photo-1509762774605-f07235a08f1f?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Breville Barista Express Espresso Machine",
+    "description": "Craft barista-quality espresso at home with ease.",
+    "price": 699,
+    "period": "Monthly",
+    "tagType": "Best Seller",
+    "features": [
+      "Built-in grinder",
+      "Steam wand for milk frothing",
+      "Precise temperature control"
+    ],
+    "icon": "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=600&q=80"
+  }
+]
