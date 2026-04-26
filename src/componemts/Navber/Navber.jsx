@@ -12,7 +12,11 @@ const Navbar = ({ selectedcard }) => {
                         </svg>
                     </div>
                     <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 font-bold text-gray-700">
-                        <li><a>Ibrahim</a></li>
+                        <li><a>Products</a></li>
+                        <li><a>Features</a></li>
+                        <li><a>Pricing</a></li>
+                        <li><a>Testimonials</a></li>
+                        <li><a>FAQ</a></li>
                     </ul>
                 </div>
                 <a className="bg-gradient-to-r from-[#4F39F6] to-[#9514FA] bg-clip-text text-transparent text-2xl font-bold cursor-pointer">
@@ -22,7 +26,11 @@ const Navbar = ({ selectedcard }) => {
 
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 font-semibold text-gray-700">
-                    <li><a>Ibrahim</a></li>
+                    <li><a>Products</a></li>
+                    <li><a>Features</a></li>
+                    <li><a>Pricing</a></li>
+                    <li><a>Testimonials</a></li>
+                    <li><a>FAQ</a></li>
                 </ul>
             </div>
 
