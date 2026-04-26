@@ -1,3 +1,4 @@
+import React from 'react';
 import { GiShoppingCart } from "react-icons/gi";
 
 const Navbar = ({ selectedcard }) => {
@@ -15,7 +16,7 @@ const Navbar = ({ selectedcard }) => {
                         <li><a>Features</a></li>
                         <li><a>Pricing</a></li>
                         <li><a>Testimonials</a></li>
-                        <li><a>FAQ</a></li>
+                        <li><a>Ibrahim</a></li>
                     </ul>
                 </div>
                 <a className="bg-gradient-to-r from-[#4F39F6] to-[#9514FA] bg-clip-text text-transparent text-2xl font-bold cursor-pointer">
