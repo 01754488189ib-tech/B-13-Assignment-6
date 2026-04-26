@@ -12,10 +12,6 @@ const Navbar = ({ selectedcard }) => {
                         </svg>
                     </div>
                     <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 font-bold text-gray-700">
-                        <li><a>Products</a></li>
-                        <li><a>Features</a></li>
-                        <li><a>Pricing</a></li>
-                        <li><a>Testimonials</a></li>
                         <li><a>Ibrahim</a></li>
                     </ul>
                 </div>
@@ -26,10 +22,6 @@ const Navbar = ({ selectedcard }) => {
 
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 font-semibold text-gray-700">
-                    <li><a>Products</a></li>
-                    <li><a>Features</a></li>
-                    <li><a>Pricing</a></li>
-                    <li><a>Testimonials</a></li>
                     <li><a>Ibrahim</a></li>
                 </ul>
             </div>
