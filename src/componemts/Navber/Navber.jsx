@@ -30,7 +30,7 @@ const Navbar = ({ selectedcard }) => {
                     <li><a>Features</a></li>
                     <li><a>Pricing</a></li>
                     <li><a>Testimonials</a></li>
-                    <li><a>FAQ</a></li>
+                    <li><a>Ibrahim</a></li>
                 </ul>
             </div>
 
